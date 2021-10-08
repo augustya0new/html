@@ -112,6 +112,7 @@ return [
                 'checkboxes' => 'collections',
                 'radios' => 'collections',
                 'select'=>'selects',
+                'icon' =>'icons'
 
             ],
             /*
